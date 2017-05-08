@@ -1,5 +1,5 @@
-# fakenews
-fake news challenge repo
+# Fake News
+Fake news challenge repo
 
 ##
 
