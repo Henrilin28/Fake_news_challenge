@@ -1,12 +1,13 @@
 # Fake News
 Fake news challenge repo
 
-##
-
 Data Exploratory Analysis
+
+##
 
 For details of the task, see [FakeNewsChallenge.org](http://fakenewschallenge.org)
 
+The dataset and a brief description of the data is provided at the [FNC-1 github](https://github.com/FakeNewsChallenge/fnc-1). 
 
 The data provided is `(headline, body, stance)` instances, where `stance` is one of `{unrelated, discuss, agree, disagree}`. The dataset is provided as two CSVs:
 
